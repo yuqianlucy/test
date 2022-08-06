@@ -1,0 +1,12 @@
+sqlalchemy 
+mysqlclient
+tqdm
+analytix
+schedule
+mysql-python
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib 
+googleapis
+requests
+pandas
